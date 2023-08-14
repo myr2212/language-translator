@@ -3,7 +3,7 @@
 import streamlit as st
 from langchain.llms import OpenAI
 
-openai_api_key = "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"
+openai_api_key = "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"
 
 st.title("Multi-Language Translation Tool (Using OpenAI API)")
 
